@@ -84,6 +84,8 @@ html {
 .card article p {
     padding: 1em;
     color: lightgrey;
+    line-height: 1.4;
+
 }
 
 /* On mouse-over, add a deeper shadow */
